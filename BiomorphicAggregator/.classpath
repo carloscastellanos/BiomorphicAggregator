@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/jickr-beta-02/jickr.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/rome-0.8/rome-0.8.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/sqlitejdbc-v032-Mac/sqlitejdbc-v032-native.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/jdom-1.0/build/jdom.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/htmlparser1_6/lib/thumbelina.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/htmlparser1_6/lib/sax2.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/htmlparser1_6/lib/junit.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/htmlparser1_6/lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/htmlparser1_6/lib/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/htmlparser1_6/lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/rome-0.8/mediarss-0.2.1.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/yws-2.01/Java/yahoo_search_sdk-bin-2.0.0/yahoo_search-2.0.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
